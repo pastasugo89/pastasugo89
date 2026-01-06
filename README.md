@@ -43,9 +43,8 @@ Mi appassiona trasformare idee complesse in interfacce utente intuitive e perfor
 
 ### 📫 Contattami
 
-- 💼 LinkedIn: [linkedin.com/in/tuo-profilo](https://linkedin.com/in/tuo-profilo)
-- 📧 Email: [tua-email@esempio.com](mailto:tua-email@esempio.com)
-- 🌐 Portfolio: [il-tuo-sito.it](https://il-tuo-sito.it)
+- 📧 Email: [pastasugo89@gmail.com](mailto:tua-email@esempio.com)
+- 🌐 Portfolio: work in progress
 
 ---
 <p align="center">

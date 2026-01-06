@@ -1,4 +1,4 @@
-# Ciao! Sono [Il Tuo Nome] 👋
+# Ciao! Sono pastasugo89 👋
 
 ### 🚀 Web Developer Junior | Specializzato in Next.js & React
 
@@ -28,7 +28,7 @@ Mi appassiona trasformare idee complesse in interfacce utente intuitive e perfor
 ### 📊 Le mie Statistiche GitHub
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[TUO-USERNAME]&show_icons=true&theme=tokyonight" alt="Stats di [Tuo Nome]" />
+<img src="https://github-readme-stats.vercel.app/api?username=pastasugo89&show_icons=true&theme=tokyonight" alt="Stats di [Tuo Nome]" />
 </p>
 
 ---
